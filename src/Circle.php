@@ -10,6 +10,6 @@ class Circle {
 
   // вычисляет площадь круга
   public function area() {
-    return 2* 3.14 * $this->radius * $this->radius;
+    return 3.14 * $this->radius * $this->radius;
   }
 }
